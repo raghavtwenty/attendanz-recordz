@@ -1,0 +1,8 @@
+
+***Total number of students:- 38
+***To number of students present:- 31
+***Total number of students absent:- 7
+
+***Absentees names:- {'ashoknarayanan n', 'mukund p u', 'yuthish c', 'nikhil m', 'paul abisheike p', 'prithivi ram v', 'harshini c v'}
+
+© Designed and Programmed by raghava, KV CBE - 2020.
