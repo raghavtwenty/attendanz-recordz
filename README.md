@@ -1,17 +1,23 @@
 # ATTENDANZ RECORDZ
 _A Python GUI based automatic attendance tracking for the participants in online meetings_
-<br><br>
+<br><br><br>
 
 
 ### 🌟 MILESTONES 🌟
 🏆 Eliminating the need for manual attendance tracking, Very much effective and widely used in different schools and colleges during the COVID-19 lockdown. Saved 8-10 minutes per hour, freeing up professor’s time for other productive tasks.
-<br><br>
+<br><br><br>
+
 
 ### HOW TO EXECUTE
 
 #### Terminal
 ```
 git clone https://github.com/raghavtwenty/attendanz-recordz.py
+```
+<br>
+
+```
+cd attendanz-recordz/
 ```
 <br>
 
@@ -31,17 +37,16 @@ python Attendanz-Recordz.py
 <br>
 
 
-
 ### INTRODUCTION
 With the raise in Covid-19, more and more companies, schools, universities are moving to online meetings and classes. It is very hard and tedious process to find the exact count of absentees and their name for each and every meeting. This is were the role of attendanz recordz comes in. It takes the total paparticipants name list in excel file and current participants as input and finds the absentees and count. Finally, it retruns a user friendly report in a PDF file format.
-<br><br>
+<br><br><br>
 
 
 ### REQUIRED
 - PC or Laptop <br>
 - Pogramming language: Python <br>
 - Libraries: Tkinter, Openpyxl, fpdf
-<br><br>
+<br><br><br>
 
 
 ### WORKING
@@ -50,15 +55,15 @@ This is a attendance tracking application. To find out the absentees in the onli
 - Click "Get Report" to process the input.
 - On the right side of the home screen, people who are not there in the meeting will be listed.
 - Click "Save PDF" to export the report for future purposes.
-<br><br>
+<br><br><br>
 
 
 ### ADVANTAGES
 - Easy to use GUI <br>
 - Reads Excel sheets, text input <br>
 - Faster processing <br>
-- Portable reports <br>
-<br><br>
+- Portable reports 
+<br><br><br>
 
 
 ### OUTPUT
@@ -86,6 +91,11 @@ This is a attendance tracking application. To find out the absentees in the onli
 - Saved PDF <br><br>
 ![6](https://github.com/raghavtwenty/attendanz-recordz/assets/126254197/71a07043-4ae7-4022-94f9-5f52f637e797)
 
+<br><br>
+
+### FINAL REPORT 
+[Attendanz_Recordz_Date - 2023-09-05_Time - 13-30-26_Computer Science](https://github.com/raghavtwenty/attendanz-recordz/files/15256423/report.pdf)
+
 <br>
 
 ### CREDITS
@@ -93,5 +103,6 @@ This is a attendance tracking application. To find out the absentees in the onli
 - Designed & Programmed by: Raghava <br>
 - School: Kendriya Vidyalaya, Coimbatore. <br>
 <br><br>
+
 
 _END OF README_
