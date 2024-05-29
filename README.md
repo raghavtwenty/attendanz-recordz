@@ -38,13 +38,13 @@ python Attendanz-Recordz.py
 
 
 ### INTRODUCTION
-With the raise in Covid-19, more and more companies, schools, universities are moving to online meetings and classes. It is very hard and tedious process to find the exact count of absentees and their name for each and every meeting. This is were the role of attendanz recordz comes in. It takes the total paparticipants name list in excel file and current participants as input and finds the absentees and count. Finally, it retruns a user friendly report in a PDF file format.
+With the raise in Covid-19, more and more companies, schools, universities are moving to online meetings and classes. It is very hard and tedious process to find the exact count of absentees and their name for each and every meeting. This is were the role of attendanz recordz comes in. It takes the total participants name list in excel file and current participants as input and finds the absentees and count. Finally, it returns a user friendly report in a PDF file format.
 <br><br><br>
 
 
 ### REQUIRED
 - PC or Laptop <br>
-- Pogramming language: Python <br>
+- Programming language: Python <br>
 - Libraries: Tkinter, Openpyxl, fpdf
 <br><br><br>
 
